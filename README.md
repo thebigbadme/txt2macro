@@ -13,3 +13,10 @@ under Java. In order to execute this sequence from one of the macro buttons requ
 the string to be put together as "+p,-p,+s,-s,+v,-v,+m,-m,+enter,-enter"
 In order to streamline the process of converting an ordinary string into such a format,
 I whipped up this little bit of java code, in hopes that others may also find use.
+
+NOTE: If you require use of terminating characters (enter, tab, &etc), they must be added
+manually.
+
+Supported Characters:
+1234567890-=!@#$%^&*()_+[{]}\|;:'",<.>/?
+qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM
