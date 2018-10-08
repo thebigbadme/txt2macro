@@ -1,0 +1,3 @@
+This source code (hereafter "Code") is offered "as is," no warranty is given or implied.  Code is provided exclusively for non-commercial purposes. No commercial use is allowed, in whole or in part, without prior authorization.
+All non-commercial use is permitted, provided that any additions or modifications are released under same terms.
+Distribution of Code, compiled or otherwise, requires concurrent, unmodified, distribution of this license.
