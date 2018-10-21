@@ -18,5 +18,5 @@ NOTE: If you require use of terminating characters (enter, tab, &etc), they must
 manually.
 
 Supported Characters:
-1234567890-=!@#$%^&*()_+[{]}\|;:'",<.>/?
+1234567890-=!@#$%^&*()_+[{]}\\|;:'",<.>/?
 qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM
